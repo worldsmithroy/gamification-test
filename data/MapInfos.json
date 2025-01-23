@@ -10,8 +10,10 @@ null,
 {"id":8,"expanded":true,"name":"Town Proper","order":8,"parentId":0,"scrollX":832,"scrollY":640},
 {"id":9,"expanded":false,"name":"Ranger's House","order":9,"parentId":8,"scrollX":759.3333333333334,"scrollY":561.3333333333334},
 {"id":10,"expanded":false,"name":"General Store","order":10,"parentId":8,"scrollX":832,"scrollY":640},
-{"id":11,"expanded":false,"name":"Herbalist House","order":11,"parentId":8,"scrollX":832,"scrollY":640},
+{"id":11,"expanded":false,"name":"Herbalist House","order":11,"parentId":8,"scrollX":759.3333333333334,"scrollY":561.3333333333334},
 {"id":12,"expanded":true,"name":"Town Square","order":12,"parentId":0,"scrollX":832,"scrollY":640},
 {"id":13,"expanded":false,"name":"Library","order":13,"parentId":12,"scrollX":759.3333333333334,"scrollY":561.3333333333334},
-{"id":14,"expanded":false,"name":"Blacksmith","order":14,"parentId":12,"scrollX":759.3333333333334,"scrollY":561.3333333333334}
+{"id":14,"expanded":false,"name":"Blacksmith","order":14,"parentId":12,"scrollX":759.3333333333334,"scrollY":561.3333333333334},
+{"id":15,"expanded":false,"name":"Inn","order":15,"parentId":12,"scrollX":832,"scrollY":640},
+{"id":16,"expanded":false,"name":"Elder's House","order":16,"parentId":12,"scrollX":832,"scrollY":640}
 ]
