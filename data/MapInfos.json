@@ -14,6 +14,6 @@ null,
 {"id":12,"expanded":true,"name":"Town Square","order":12,"parentId":0,"scrollX":832,"scrollY":640},
 {"id":13,"expanded":false,"name":"Library","order":13,"parentId":12,"scrollX":759.3333333333334,"scrollY":561.3333333333334},
 {"id":14,"expanded":false,"name":"Blacksmith","order":14,"parentId":12,"scrollX":759.3333333333334,"scrollY":561.3333333333334},
-{"id":15,"expanded":false,"name":"Inn","order":15,"parentId":12,"scrollX":832,"scrollY":640},
+{"id":15,"expanded":false,"name":"Inn","order":15,"parentId":12,"scrollX":759.3333333333334,"scrollY":561.3333333333334},
 {"id":16,"expanded":false,"name":"Elder's House","order":16,"parentId":12,"scrollX":832,"scrollY":640}
 ]
