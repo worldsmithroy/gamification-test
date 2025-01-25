@@ -20,5 +20,6 @@ null,
 {"id":18,"expanded":false,"name":"the graveyard","order":17,"parentId":0,"scrollX":832,"scrollY":640},
 {"id":19,"expanded":false,"name":"Masoleum","order":19,"parentId":18,"scrollX":823.8,"scrollY":1112.3999999999999},
 {"id":20,"expanded":false,"name":"Gravekeeper's Cabin","order":20,"parentId":18,"scrollX":633,"scrollY":337.2},
-{"id":21,"expanded":false,"name":"Mountain","order":21,"parentId":0,"scrollX":575.4545454545455,"scrollY":391.6363636363636}
+{"id":21,"expanded":true,"name":"Mountain","order":21,"parentId":0,"scrollX":759.3333333333334,"scrollY":561.3333333333334},
+{"id":22,"expanded":false,"name":"Quarryman's House","order":22,"parentId":21,"scrollX":759.3333333333334,"scrollY":561.3333333333334}
 ]
